@@ -22,3 +22,6 @@
 
 ## Multi-class Neural Network
   * -- a Multiclass neural network that uses 'categorical entropy'
+
+## Perceptron
+  * -- a simple perceptron model that'll be later used in the simulation model
