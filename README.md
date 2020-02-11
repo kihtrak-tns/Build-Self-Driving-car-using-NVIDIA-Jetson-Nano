@@ -8,7 +8,7 @@
   * Images captured during the training session from the simulator
 
 ## Convolution Neural Networks
-  * -- predicts the digit from its model trained with a MNIST data
+  * -- predicts the digit from its model trained with a MNIST data on Google Colab
 
 ## Decision-contour
   * -- plots the contour boundary based on the probabilities defined by our decision boundary
@@ -25,3 +25,6 @@
 
 ## Perceptron
   * -- a simple perceptron model that'll be later used in the simulation model
+
+## Traffic Signs Starter Project
+ * -- predicts the class of the image from a list of traffic signs 
